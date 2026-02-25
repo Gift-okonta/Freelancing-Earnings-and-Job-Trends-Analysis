@@ -1,5 +1,16 @@
 # Freelancing-Earnings-and-Job-Trends-Analysis
 
+## Table of Contents
+
+- [Project Overview](#project-overview)
+- [Data source](#data-source)
+- [Business Questions](#business-questions)
+- [Data Cleaning & Preparation](#data-cleaning--preparation)
+- [Key Insights](#key-insights)
+- [Recommendations](#recommendations)
+- [Conclusion](#conclusion)
+- [Power BI Dashboard File](#power-bi-dashboard-file)
+
 ## Project Overview
 
 This dataset provides comprehensive information about freelancer earnings and job trends across various industries and skill categories. It aims to help job seekers, freelancers, and researchers understand compensation patterns and demand in the gig economy.
