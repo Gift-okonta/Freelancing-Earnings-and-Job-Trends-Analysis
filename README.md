@@ -113,7 +113,7 @@ Higher experience level does not automatically guarantee higher income. Market p
 - Beginners: 44%
 - Intermediate: 44%
 
-The differences are minimal, suggesting that experience level has limited influence on client rehire behavior.
+Rehire rates were relatively consistent across experience levels, with Experts recording 46% and Beginners 44%, indicating only a 2% point variance,suggesting that experience level has limited influence on client rehire behavior.
 
 **Insight:**  
 Service quality and client satisfaction likely drive repeat engagement more than experience level alone.
